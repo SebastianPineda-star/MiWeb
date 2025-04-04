@@ -101,3 +101,12 @@ form button {
 form button:hover {
     background-color: #0056b3;
 }
+
+.background-box {
+    background-color: #ffffff;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    max-width: 900px;
+    margin: 20px auto;
+}
